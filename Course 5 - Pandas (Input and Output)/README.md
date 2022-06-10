@@ -1,2 +1,2 @@
 ![](https://raw.githubusercontent.com/guinatel/Alura-Python-for-Data-Science/main/Course%205%20-%20Pandas%20(Input%20and%20Output)/IMG/img%201.png)
-![](https://raw.githubusercontent.com/guinatel/Alura-Python-for-Data-Science/main/Course%205%20-%20Pandas%20(Input%20and%20Output)/IMG/img%201.png)
+![](https://raw.githubusercontent.com/guinatel/Alura-Python-for-Data-Science/main/Course%205%20-%20Pandas%20(Input%20and%20Output)/IMG/img%202.png)
