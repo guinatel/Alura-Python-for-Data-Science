@@ -1,2 +1,2 @@
-![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%209%20-%20Web%20Scraping/IMG/img%201.png)
-![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%209%20-%20Web%20Scraping/IMG/img%202.png)
+![](https://raw.githubusercontent.com/guinatel/Alura-Python-for-Data-Science/main/Course%209%20-%20Web%20Scraping/IMG/img%201.png)
+![](https://raw.githubusercontent.com/guinatel/Alura-Python-for-Data-Science/main/Course%209%20-%20Web%20Scraping/IMG/img%202.png)
