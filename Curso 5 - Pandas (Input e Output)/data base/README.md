@@ -1,0 +1,2 @@
+![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%205%20-%20Pandas%20(Input%20e%20Output)/IMG/img%201.png)
+![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%205%20-%20Pandas%20(Input%20e%20Output)/IMG/img%202.png)
