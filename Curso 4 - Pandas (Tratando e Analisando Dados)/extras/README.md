@@ -1,0 +1,3 @@
+
+![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%204%20-%20Pandas%20(Tratando%20e%20Analisando%20Dados)/IMG/img%201.png)
+![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%204%20-%20Pandas%20(Tratando%20e%20Analisando%20Dados)/IMG/img%202.png)
