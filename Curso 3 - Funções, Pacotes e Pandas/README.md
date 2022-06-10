@@ -1,0 +1,2 @@
+![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%203%20-%20Fun%C3%A7%C3%B5es%2C%20Pacotes%20e%20Pandas/IMG/img%201.png)
+![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%203%20-%20Fun%C3%A7%C3%B5es%2C%20Pacotes%20e%20Pandas/IMG/img%202.png)
