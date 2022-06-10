@@ -1,2 +1,2 @@
 ![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%206%20-%20Data%20Visualization%20(Seaborn)/IMG/img%201.png)
-![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%206%20-%20Data%20Visualization%20(Seaborn)/IMG/img%202.png)
+![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%206%20-%20Data%20Visualization%20(Seaborn)/IMG/img%203.png)
