@@ -1,0 +1,2 @@
+![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%208%20-%20Machine%20Learning/IMG/img%201.png)
+![](https://raw.githubusercontent.com/guinatel/Python-para-Data-Science/main/Curso%208%20-%20Machine%20Learning/IMG/img%202.png)
