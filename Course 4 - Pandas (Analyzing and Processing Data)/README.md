@@ -1,2 +1,2 @@
 ![](https://raw.githubusercontent.com/guinatel/Alura-Python-for-Data-Science/main/Course%204%20-%20Pandas%20(Analyzing%20and%20Processing%20Data)/IMG/img%201.png)
-![](https://raw.githubusercontent.com/guinatel/Alura-Python-for-Data-Science/main/Course%204%20-%20Pandas%20(Analyzing%20and%20Processing%20Data)/IMG/img%201.png)
+![](https://raw.githubusercontent.com/guinatel/Alura-Python-for-Data-Science/main/Course%204%20-%20Pandas%20(Analyzing%20and%20Processing%20Data)/IMG/img%202.png)
